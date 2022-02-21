@@ -1,4 +1,4 @@
-<h1>Manipulando o arquivo webxml</h1>
+<h1>Manipulando o arquivo web.xml</h1>
  <p>Definindo arquivos padrões que serão carregados caso o usuário acesse a aplicação pelo browser sem especificar um arquivo ou servlet</p>
  
 <h2> Fonte de estudo </h2> 
